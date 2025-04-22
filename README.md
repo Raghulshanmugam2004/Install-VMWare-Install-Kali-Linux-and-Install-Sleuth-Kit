@@ -108,7 +108,8 @@ INSTALLING VMWARE:
   •	Select it and click Start and the Kali Linux will boot up
   ![image](https://github.com/user-attachments/assets/07334803-be51-4b19-954f-b33010c68fa6)
   ![image](https://github.com/user-attachments/assets/68e7a706-ce1d-4ad1-8ebf-c313de6fcf92)
-  ![image](https://github.com/user-attachments/assets/52a08d92-1ede-4009-81a3-b1d9719a0db4)
+e![VirtualBox_kali-linux-2024 4-virtualbox-amd64_22_04_2025_12_35_05](https://github.com/user-attachments/assets/f895b594-8cee-495d-8851-50636f7f5f39)
+
   
 ## OUTPUT:
   •	After login (default username: kali, password: kali)
@@ -132,6 +133,7 @@ INSTALLING VMWARE:
   
   ● Click environment variables.
 
+![image](https://github.com/user-attachments/assets/e8eaa863-a273-4dd4-a6bc-4703688d10a1)
 
   
   ●	Click the path
